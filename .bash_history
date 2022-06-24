@@ -66,3 +66,7 @@ ls -al
 git init .
 ls .al
 ls -al
+ll
+vim
+ll
+git commit -m "file3

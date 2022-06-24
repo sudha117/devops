@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656014962,,"wq"
+|2,0,1656097571,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -29,6 +29,8 @@
 |4,48,1,11,1656014962,"~/sudhakar"
 
 # Jumplist (newest first):
+-'  1  11  ~/sudhakar
+|4,39,1,11,1656014962,"~/sudhakar"
 -'  1  11  ~/sudhakar
 |4,39,1,11,1656014962,"~/sudhakar"
 
